@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r1jqkt72oob5t5si?svg=true)](https://ci.appveyor.com/project/Marfinika/patterns2-3)
